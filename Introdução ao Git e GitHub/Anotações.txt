@@ -1,0 +1,1 @@
+Texto exemplo para a utilização das ações git commit e git push nos arquivos locais
